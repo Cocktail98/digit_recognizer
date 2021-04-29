@@ -1,0 +1,4 @@
+.idea/
+./py_pytorch/__pycache__/
+
+./data/sample_submission.csv
