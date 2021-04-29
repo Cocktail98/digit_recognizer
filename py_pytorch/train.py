@@ -84,7 +84,7 @@ def train_model(model, dataloaders, dataset_sizes, criterion, optimizer, schedul
     ax.set_xlabel('accuracy')
     ax.set_ylabel('loss')
     ax.legend()
-    plt.savefig('./loss&acc.jpg')
+    plt.savefig('./res/loss&acc.jpg')
     # plt.show()
 
     # load best model weights
