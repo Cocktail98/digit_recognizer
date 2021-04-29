@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/cpp_tensorRT.dir/main.cc.o CMakeFiles/cpp_tensorRT.dir/model.cc.o -o cpp_tensorRT   -L/usr/local/cuda/lib64  -Wl,-rpath,/usr/local/cuda/lib64 -lnvinfer -lcudart 
