@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7392d5a3-666d-4d58-8dce-398922687e75" name="Default Changelist" comment="commit">
-      <change afterPath="$PROJECT_DIR$/py_pytorch/model_weight/gen_wts.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="7392d5a3-666d-4d58-8dce-398922687e75" name="Default Changelist" comment="commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -184,6 +181,7 @@
       <workItem from="1619617825033" duration="620000" />
       <workItem from="1619661448329" duration="897000" />
       <workItem from="1619664191515" duration="29467000" />
+      <workItem from="1619706187247" duration="301000" />
     </task>
     <task id="LOCAL-00001" summary="Complete the Python-Pytorch implementation">
       <created>1619701628420</created>
@@ -206,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619702422443</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit">
+      <created>1619706297380</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1619706297380</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -222,6 +227,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Complete the Python-Pytorch implementation" />
