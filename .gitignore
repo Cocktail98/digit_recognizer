@@ -1,4 +1,7 @@
-.idea/
+./.idea/
+./cpp_tensorRT/.idea/
+./cpp_tensorRT/cmake-build-debug/
 ./py_pytorch/__pycache__/
 
+./cpp_tensorRT/CMakeLists.txt
 ./data/sample_submission.csv
